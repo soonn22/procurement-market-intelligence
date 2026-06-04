@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Database — too large for GitHub
+*.db
+*.sqlite
+
+# API keys — never upload these
+config.py
+secrets.py
+api_keys.py
+
+# Exports — generated files, not source code
+exports/
+data/csv/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI
+*.pbix
