@@ -1,0 +1,41 @@
+vendor_number,supplier_id,vendor_name,company_code,purchasing_org,account_group,reconciliation_account,country,currency,planned_delivery_days,contract_status,spend_tier,payment_terms,company_name
+100001,S001,Prairie Industrial Supply,CA01,PO01,KRED,160000,Canada,CAD,7,Under contract,Tier 3,Net 30,Nexus Manufacturing Inc.
+100002,S002,Wesco Distribution,CA01,PO01,KRED,160000,Canada,CAD,5,Under contract,Tier 3,Net 30,Nexus Manufacturing Inc.
+100003,S003,Grainger Canada,CA01,PO01,KRED,160000,Canada,CAD,3,Under contract,Tier 3,Net 15,Nexus Manufacturing Inc.
+100004,S004,Fastenal Canada,CA01,PO01,KRED,160000,Canada,CAD,4,Under contract,Tier 3,Net 30,Nexus Manufacturing Inc.
+100005,S005,Motion Industries,CA01,PO01,KRED,160000,Canada,CAD,6,Under contract,Tier 3,Net 30,Nexus Manufacturing Inc.
+100006,S006,HD Supply,CA01,PO01,KRED,160000,USA,CAD,10,Under contract,Tier 1,Net 45,Nexus Manufacturing Inc.
+100007,S007,Brenntag Canada,CA01,PO01,KRED,160000,Canada,CAD,8,Under contract,Tier 2,Net 30,Nexus Manufacturing Inc.
+100008,S008,Univar Solutions,CA01,PO01,KRED,160000,Canada,CAD,9,Under contract,Tier 2,Net 30,Nexus Manufacturing Inc.
+100009,S009,Chemtrade Logistics,CA01,PO01,KRED,160000,Canada,CAD,5,Under contract,Tier 2,Net 30,Nexus Manufacturing Inc.
+100010,S010,Superior Industries,CA01,PO01,KRED,160000,Canada,CAD,12,Month-to-month,Tier 3,Net 45,Nexus Manufacturing Inc.
+100011,S011,Atlas Copco,CA01,PO01,KRED,160000,Sweden,CAD,21,Under contract,Tier 3,Net 60,Nexus Manufacturing Inc.
+100012,S012,Emerson Electric,CA01,PO01,KRED,160000,USA,CAD,14,Under contract,Tier 3,Net 45,Nexus Manufacturing Inc.
+100013,S013,Honeywell Canada,CA01,PO01,KRED,160000,Canada,CAD,7,Under contract,Tier 3,Net 30,Nexus Manufacturing Inc.
+100014,S014,Parker Hannifin,CA01,PO01,KRED,160000,USA,CAD,18,Under contract,Tier 3,Net 45,Nexus Manufacturing Inc.
+100015,S015,SKF Bearings,CA01,PO01,KRED,160000,Sweden,CAD,25,Under contract,Tier 3,Net 60,Nexus Manufacturing Inc.
+100016,S016,Nutrien Logistics,CA01,PO01,KRED,160000,Canada,CAD,2,Internal,Tier 2,Net 15,Nexus Manufacturing Inc.
+100017,S017,Canadian Freightways,CA01,PO01,KRED,160000,Canada,CAD,3,Under contract,Tier 2,Net 30,Nexus Manufacturing Inc.
+100018,S018,TransWest Shipping,CA01,PO01,KRED,160000,Canada,CAD,4,Month-to-month,Tier 2,Net 30,Nexus Manufacturing Inc.
+100019,S019,Finning CAT,CA01,PO01,KRED,160000,Canada,CAD,5,Under contract,Tier 3,Net 30,Nexus Manufacturing Inc.
+100020,S020,Toromont Industries,CA01,PO01,KRED,160000,Canada,CAD,6,Under contract,Tier 3,Net 30,Nexus Manufacturing Inc.
+100021,S021,Prairie Welding Supply,CA01,PO01,KRED,160000,Canada,CAD,3,Month-to-month,Tier 3,Net 30,Nexus Manufacturing Inc.
+100022,S022,Linde Canada,CA01,PO01,KRED,160000,Canada,CAD,5,Under contract,Tier 3,Net 30,Nexus Manufacturing Inc.
+100023,S023,Air Liquide Canada,CA01,PO01,KRED,160000,Canada,CAD,4,Under contract,Tier 3,Net 30,Nexus Manufacturing Inc.
+100024,S024,Northern Safety,CA01,PO01,KRED,160000,Canada,CAD,2,Under contract,Tier 3,Net 30,Nexus Manufacturing Inc.
+100025,S025,Direct Safety,CA01,PO01,KRED,160000,USA,CAD,7,Month-to-month,Tier 3,Net 30,Nexus Manufacturing Inc.
+100026,S026,Sask Chemical Corp,CA01,PO01,KRED,160000,Canada,CAD,6,Under contract,Tier 1,Net 30,Nexus Manufacturing Inc.
+100027,S027,Western Agri-Chem,CA01,PO01,KRED,160000,Canada,CAD,8,Under contract,Tier 1,Net 30,Nexus Manufacturing Inc.
+100028,S028,BioAgra Solutions,CA01,PO01,KRED,160000,Canada,CAD,10,Month-to-month,Tier 2,Net 45,Nexus Manufacturing Inc.
+100029,S029,3M Canada,CA01,PO01,KRED,160000,Canada,CAD,5,Under contract,Tier 3,Net 30,Nexus Manufacturing Inc.
+100030,S030,DuPont Canada,CA01,PO01,KRED,160000,Canada,CAD,7,Under contract,Tier 2,Net 30,Nexus Manufacturing Inc.
+100031,S031,Precision Instruments,CA01,PO01,KRED,160000,Canada,CAD,14,Month-to-month,Tier 1,Net 45,Nexus Manufacturing Inc.
+100032,S032,Endress+Hauser,CA01,PO01,KRED,160000,Switzerland,CAD,21,Under contract,Tier 1,Net 60,Nexus Manufacturing Inc.
+100033,S033,Siemens Canada,CA01,PO01,KRED,160000,Canada,CAD,10,Under contract,Tier 1,Net 30,Nexus Manufacturing Inc.
+100034,S034,ABB Canada,CA01,PO01,KRED,160000,Canada,CAD,12,Under contract,Tier 1,Net 45,Nexus Manufacturing Inc.
+100035,S035,Rockwell Automation,CA01,PO01,KRED,160000,USA,CAD,14,Under contract,Tier 1,Net 45,Nexus Manufacturing Inc.
+100036,S036,Canpar Courier,CA01,PO01,KRED,160000,Canada,CAD,1,Under contract,Tier 3,Net 30,Nexus Manufacturing Inc.
+100037,S037,Purolator,CA01,PO01,KRED,160000,Canada,CAD,1,Under contract,Tier 2,Net 30,Nexus Manufacturing Inc.
+100038,S038,Prairie Packaging,CA01,PO01,KRED,160000,Canada,CAD,5,Under contract,Tier 2,Net 30,Nexus Manufacturing Inc.
+100039,S039,Sealed Air Canada,CA01,PO01,KRED,160000,USA,CAD,8,Under contract,Tier 2,Net 45,Nexus Manufacturing Inc.
+100040,S040,Generic Supplies Inc,CA01,PO01,KRED,160000,Canada,CAD,15,No contract,Tier 2,Net 60,Nexus Manufacturing Inc.
